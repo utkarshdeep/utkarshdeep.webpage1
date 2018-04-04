@@ -1,3 +1,19 @@
 theme: jekyll-theme-cayman
 title: Welcome to Utkarsh's homepage!
 description: Bookmark this to keep with Data Science stuffs!!!
+
+# author settings for cc-by
+author: Utkarsh Deep
+pub_year: 2018
+github_username: utkarshdeep
+
+# add the full url for the github repository
+repo: "https://github.com/utkarshdeep/utkarshdeep.github.io"
+
+# urls
+# your gh-pages url: https://username.github.io
+url: https://github.com/utkarshdeep
+# your repository name: /repository
+baseurl: /utkarshdeep.github.io
+
+markdown: kramdown
